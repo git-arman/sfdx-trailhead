@@ -2,72 +2,70 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1524258758000,
-            "changeTime": 1524258758000,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 136,
+            "modifiedTime": 1524331415000,
+            "changeTime": 1524331415000,
             "isWorkspace": false,
-            "isArtifactRoot": true
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1524258758000,
-            "changeTime": 1524258758000,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 136,
+            "modifiedTime": 1524331415000,
+            "changeTime": 1524331415000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 340,
-            "modifiedTime": 1524330500000,
-            "changeTime": 1524330500000,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 374,
+            "modifiedTime": 1524331421000,
+            "changeTime": 1524331421000,
+            "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1524330536000,
-            "changeTime": 1524330536000,
-            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 272,
+            "modifiedTime": 1524336656000,
+            "changeTime": 1524336656000,
+            "isWorkspace": false,
+            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation",
             "isDirectory": true,
-            "size": 374,
-            "modifiedTime": 1524269212000,
-            "changeTime": 1524269212000,
-            "contentHash": "7353f7aa5ce702107442766f484722079d20d3fe",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "size": 408,
+            "modifiedTime": 1524331415000,
+            "changeTime": 1524331415000,
+            "isWorkspace": true,
+            "contentHash": "6ef69b0c2f123f84128940efc746147ca59d3764"
         }
     ],
     [
@@ -281,14 +279,14 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 178,
             "modifiedTime": 1524331146000,
             "changeTime": 1524331146000,
-            "contentHash": "697cdcce9a0cc6a1360b8dfc2e66ba619ee2d56b"
+            "contentHash": "697cdcce9a0cc6a1360b8dfc2e66ba619ee2d56b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -479,7 +477,7 @@
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1524271339000,
+            "modifiedTime": 1524337243000,
             "changeTime": 1524271339000,
             "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
             "isMetadataFile": false,
@@ -515,14 +513,14 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 339,
-            "modifiedTime": 1524271275000,
-            "changeTime": 1524271275000,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 543,
+            "modifiedTime": 1524336852000,
+            "changeTime": 1524336852000,
+            "contentHash": "39e4490b510ab89ac345da221775eb399891c7fc"
         }
     ],
     [
@@ -580,14 +578,14 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 256,
-            "modifiedTime": 1524271308000,
-            "changeTime": 1524271308000,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 396,
+            "modifiedTime": 1524337005000,
+            "changeTime": 1524337005000,
+            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
         }
     ],
     [
@@ -921,7 +919,7 @@
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1524330699000,
+            "modifiedTime": 1524337400000,
             "changeTime": 1524330699000,
             "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
             "isMetadataFile": false,
@@ -944,14 +942,14 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "size": 257,
-            "modifiedTime": 1524330622000,
-            "changeTime": 1524330622000,
-            "contentHash": "3db53485d80f66fb1f2ed3b639b86316e4ac2208",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 331,
+            "modifiedTime": 1524337287000,
+            "changeTime": 1524337287000,
+            "contentHash": "3c0a03b4b5e415886724191873141d99775bb976"
         }
     ],
     [
@@ -1009,14 +1007,14 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "size": 379,
-            "modifiedTime": 1524330654000,
-            "changeTime": 1524330654000,
-            "contentHash": "b945d4c0614623b24924b3ec49a9329caf70b67b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 831,
+            "modifiedTime": 1524337400000,
+            "changeTime": 1524337400000,
+            "contentHash": "1fa3caca740feb3d18a86e5189549585a9bc2050"
         }
     ],
     [
@@ -1043,6 +1041,45 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1524336734000,
+            "changeTime": 1524336734000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1524336734000,
+            "changeTime": 1524336734000,
+            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
+        }
+    ],
+    [
+        "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1524336656000,
+            "changeTime": 1524336656000,
+            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
         }
     ]
 ]

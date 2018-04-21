@@ -45,15 +45,15 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1524330536000,
             "changeTime": 1524330536000,
-            "isWorkspace": false,
-            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -285,10 +285,10 @@
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 184,
-            "modifiedTime": 1524330812000,
-            "changeTime": 1524330812000,
-            "contentHash": "505349c663f41e7c10af1e2c90fc0e0936b56ae9"
+            "size": 178,
+            "modifiedTime": 1524331146000,
+            "changeTime": 1524331146000,
+            "contentHash": "697cdcce9a0cc6a1360b8dfc2e66ba619ee2d56b"
         }
     ],
     [
@@ -918,131 +918,131 @@
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 374,
             "modifiedTime": 1524330699000,
             "changeTime": 1524330699000,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1524330536000,
             "changeTime": 1524330536000,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 257,
             "modifiedTime": 1524330622000,
             "changeTime": 1524330622000,
-            "contentHash": "3db53485d80f66fb1f2ed3b639b86316e4ac2208"
+            "contentHash": "3db53485d80f66fb1f2ed3b639b86316e4ac2208",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1524330536000,
             "changeTime": 1524330536000,
-            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af"
+            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 43,
             "modifiedTime": 1524330699000,
             "changeTime": 1524330699000,
-            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe"
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1524330536000,
             "changeTime": 1524330536000,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1524330536000,
             "changeTime": 1524330536000,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 379,
             "modifiedTime": 1524330654000,
             "changeTime": 1524330654000,
-            "contentHash": "b945d4c0614623b24924b3ec49a9329caf70b67b"
+            "contentHash": "b945d4c0614623b24924b3ec49a9329caf70b67b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1524330536000,
             "changeTime": 1524330536000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/armanshah/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1524330536000,
             "changeTime": 1524330536000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
